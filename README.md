@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) suit le cycle des données FHE, des entrées chiffrées aux permissions et aux intégrations applicatives.
+
 # @cofhe/sdk
 
 This repo contains the full toolkit for interacting with Fhenix's CoFHE coprocessor.
